@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.github.osp-huhula</groupId>
 	<artifactId>sonatype-OSSRH-release</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<packaging>pom</packaging>
 	<organization>
 		<name>huhula</name>
@@ -18,7 +18,7 @@
 		<url>https://github.com/jbrasileiro/sonatype-OSSRH-release</url>
 		<connection>scm:git:https://github.com/jbrasileiro/sonatype-OSSRH-release.git</connection>
 		<developerConnection>scm:git:https://github.com/jbrasileiro/sonatype-OSSRH-release.git</developerConnection>
-		<tag>sonatype-OSSRH-release-0.0.1</tag>
+		<tag>0.0.1-SNAPSHOT</tag>
 	</scm>
 	<developers>
 		<developer>
